@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
 | [1127-last-stone-weight](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1127-last-stone-weight) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0202-happy-number) |
 ## Math
 |  |
