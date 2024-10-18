@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0075-sort-colors) |
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
 ## Heap (Priority Queue)
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0055-jump-game) |
 ## Sorting
 |  |
