@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
