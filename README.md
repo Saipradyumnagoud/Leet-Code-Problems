@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0792-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0946-smallest-range-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0946-smallest-range-ii) |
 ## Two Pointers
 |  |
