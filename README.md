@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1127-last-stone-weight) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -201,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
