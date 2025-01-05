@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0258-add-digits) |
 ## Greedy
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
