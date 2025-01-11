@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1127-last-stone-weight) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Math
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0948-sort-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
