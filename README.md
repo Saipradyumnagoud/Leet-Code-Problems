@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
