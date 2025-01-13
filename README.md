@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0258-add-digits) |
+| [0343-integer-break](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0343-integer-break](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0343-integer-break) |
 | [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
 ## Sorting
 |  |
