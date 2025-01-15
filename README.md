@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
