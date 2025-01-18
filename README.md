@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0948-sort-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1127-last-stone-weight) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0551-student-attendance-record-i) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -276,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
