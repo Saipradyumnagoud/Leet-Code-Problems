@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
+| [0561-array-partition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0792-binary-search) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
 | [0946-smallest-range-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0946-smallest-range-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0941-sort-array-by-parity) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0948-sort-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
