@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1448-maximum-69-number) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
