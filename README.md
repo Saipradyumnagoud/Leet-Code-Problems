@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1829-maximum-units-on-a-truck](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1448-maximum-69-number) |
+| [1829-maximum-units-on-a-truck](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1829-maximum-units-on-a-truck](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
