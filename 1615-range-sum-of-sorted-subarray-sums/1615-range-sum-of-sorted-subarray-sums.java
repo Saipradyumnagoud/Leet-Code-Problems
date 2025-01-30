@@ -10,9 +10,8 @@ class Solution {
         }
         Collections.sort(num);
         int result = 0;
-        int MOD = 1_000_000_007;
         for (int i = left - 1; i < right; i++) {
-            result = (result + num.get(i)) % MOD;
+            result = (result + num.get(i)) % 1_000_000_007;
         }
         return result;
     }
