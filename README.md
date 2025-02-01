@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3429-special-array-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
