@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0367-valid-perfect-square) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Quickselect
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
