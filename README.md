@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Geometry
 |  |
