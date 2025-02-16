@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0792-binary-search) |
+| [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0941-sort-array-by-parity) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [0946-smallest-range-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0946-smallest-range-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1070-convert-to-base-2](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1070-convert-to-base-2) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
+| [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [1610-xor-operation-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1839-decode-xored-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0319-bulb-switcher) |
+| [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Quickselect
 |  |
@@ -400,4 +404,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0292-nim-game) |
+| [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
