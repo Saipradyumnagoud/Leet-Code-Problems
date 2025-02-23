@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1829-maximum-units-on-a-truck](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1839-decode-xored-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1448-maximum-69-number) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1829-maximum-units-on-a-truck](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1961-maximum-ice-cream-bars) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Stack
 |  |
 | ------- |
