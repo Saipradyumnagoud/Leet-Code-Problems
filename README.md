@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0561-array-partition) |
