@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Merge Sort
 |  |
 | ------- |
