@@ -8,6 +8,8 @@ class Solution {
 
         }
         int ans = (max - k) - (min + k);
-        return (ans > 0) ? ans : 0;
+        if(ans > 0 ){
+            return ans;
+        }return 0;
     }
 }
