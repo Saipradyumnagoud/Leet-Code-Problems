@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2235-capitalize-the-title](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -462,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
