@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0202-happy-number) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
