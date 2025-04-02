@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 ## String Matching
 |  |
 | ------- |
