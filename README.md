@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1217-relative-sort-array) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1297-maximum-number-of-balloons](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -501,10 +502,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
@@ -531,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
