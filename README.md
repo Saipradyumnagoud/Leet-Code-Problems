@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+| [1054-complement-of-base-10-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1054-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1839-decode-xored-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
