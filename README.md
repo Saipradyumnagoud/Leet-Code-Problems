@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1217-relative-sort-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [1054-complement-of-base-10-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1054-complement-of-base-10-integer) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1610-xor-operation-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1839-decode-xored-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
