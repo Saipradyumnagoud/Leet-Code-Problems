@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [1054-complement-of-base-10-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1071-binary-prefix-divisible-by-5) |
