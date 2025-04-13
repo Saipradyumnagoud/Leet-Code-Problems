@@ -1,6 +1,6 @@
 class Solution {
     public List<String> topKFrequent(String[] words, int k) {
-        Map<String,Integer> map=new HashMap<>();
+        Map<String,Integer> map=new TreeMap<>();
         for (int i = 0; i < words.length; i++) {
             map.put(words[i], map.getOrDefault(words[i], 0) + 1);
         }
