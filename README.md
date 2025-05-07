@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0605-can-place-flowers) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
