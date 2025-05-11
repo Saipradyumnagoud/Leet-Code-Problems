@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1217-relative-sort-array) |
+| [1293-three-consecutive-odds](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
