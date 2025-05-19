@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3430-count-days-without-meetings) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3321-type-of-triangle) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [3321-type-of-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3430-count-days-without-meetings) |
 ## Merge Sort
 |  |
