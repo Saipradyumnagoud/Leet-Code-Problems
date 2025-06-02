@@ -5,9 +5,7 @@ class Solution {
             types.add(candy);
         }
         int candies = candyType.length / 2;
-        if (types.size() == 1) {
-            return 1;
-        }
+        
         if(types.size()<candies){
             return types.size();
         }
