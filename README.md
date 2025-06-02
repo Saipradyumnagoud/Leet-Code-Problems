@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0164-maximum-gap) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0646-maximum-length-of-pair-chain) |
