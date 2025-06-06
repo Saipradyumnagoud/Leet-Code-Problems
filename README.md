@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1954-replace-all-digits-with-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2107-find-unique-binary-string) |
