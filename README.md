@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -626,5 +629,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
