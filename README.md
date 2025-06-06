@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0792-binary-search) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+| [0878-shifting-letters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0932-monotonic-array) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0812-rotate-string) |
+| [0878-shifting-letters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0724-find-pivot-index) |
+| [0878-shifting-letters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0878-shifting-letters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
