@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0728-self-dividing-numbers) |
+| [0755-reach-a-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0755-reach-a-number) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [0944-smallest-range-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0946-smallest-range-ii) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0755-reach-a-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
