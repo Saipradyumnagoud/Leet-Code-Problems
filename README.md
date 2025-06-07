@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0755-reach-a-number) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+| [0897-prime-palindrome](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0897-prime-palindrome) |
 | [0944-smallest-range-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0946-smallest-range-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0258-add-digits) |
+| [0897-prime-palindrome](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0897-prime-palindrome) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 ## Greedy
 |  |
