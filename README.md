@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [0878-shifting-letters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
+| [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 ## Binary Search
 |  |
 | ------- |
@@ -639,4 +642,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3799-unique-3-digit-even-numbers) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
