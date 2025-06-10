@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+| [0841-shortest-distance-to-a-character](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0898-transpose-matrix) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0841-shortest-distance-to-a-character](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1297-maximum-number-of-balloons) |
