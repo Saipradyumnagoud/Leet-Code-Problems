@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1961-maximum-ice-cream-bars](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [2107-find-unique-binary-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2107-find-unique-binary-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1656-count-good-triplets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2998-count-symmetric-integers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3799-unique-3-digit-even-numbers) |
