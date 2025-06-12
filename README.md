@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2507-number-of-common-factors](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0897-prime-palindrome) |
 | [1543-simplified-fractions](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1543-simplified-fractions) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 ## Greedy
 |  |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1656-count-good-triplets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2998-count-symmetric-integers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## String Matching
