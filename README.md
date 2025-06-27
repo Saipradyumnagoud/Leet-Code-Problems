@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0344-reverse-string) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0841-shortest-distance-to-a-character](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0841-shortest-distance-to-a-character) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
