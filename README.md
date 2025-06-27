@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3799-unique-3-digit-even-numbers) |
