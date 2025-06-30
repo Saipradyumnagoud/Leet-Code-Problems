@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0948-sort-an-array) |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
