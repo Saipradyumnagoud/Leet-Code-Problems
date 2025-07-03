@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0513-find-bottom-left-tree-value) |
