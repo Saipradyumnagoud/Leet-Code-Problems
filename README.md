@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1731-even-odd-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1731-even-odd-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
 |  |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1731-even-odd-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1731-even-odd-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1731-even-odd-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1731-even-odd-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Trie
 |  |
