@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
