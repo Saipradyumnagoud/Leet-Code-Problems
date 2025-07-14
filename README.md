@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -802,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
