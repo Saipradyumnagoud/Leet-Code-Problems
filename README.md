@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
