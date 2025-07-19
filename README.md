@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1033-broken-calculator) |
 | [1070-convert-to-base-2](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1070-convert-to-base-2) |
+| [1086-divisor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1086-divisor-game) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0343-integer-break) |
 | [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [1086-divisor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1086-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0319-bulb-switcher) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+| [1086-divisor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Quickselect
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+| [1086-divisor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1086-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |
