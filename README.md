@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1306-minimum-absolute-difference) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1543-simplified-fractions](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1543-simplified-fractions) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Recursion
 |  |
 | ------- |
