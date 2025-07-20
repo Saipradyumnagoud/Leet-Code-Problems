@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Bit Manipulation
 |  |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0946-smallest-range-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1033-broken-calculator) |
+| [1285-balance-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1448-maximum-69-number) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1731-even-odd-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1731-even-odd-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -822,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1731-even-odd-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1731-even-odd-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Trie
@@ -855,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Rolling Hash
 |  |
 | ------- |
