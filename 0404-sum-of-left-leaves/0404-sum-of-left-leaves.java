@@ -15,22 +15,41 @@
  */
 class Solution {
     public int sumOfLeftLeaves(TreeNode root) {
-        if(root==null){
+        // if(root==null){
+        //     return 0;
+        // }
+        // Queue<TreeNode> queue=new LinkedList<>();
+        // queue.offer(root);
+        // int sum=0;
+        // while(!queue.isEmpty()){
+        //     TreeNode curr=queue.poll();
+        //     if(curr.left!=null){
+        //         if(curr.left.left==null && curr.left.right==null){
+        //             sum+=curr.left.val;
+        //         }else{
+        //             queue.offer(curr.left);
+        //         }
+        //     }
+        //     if(curr.right!=null){
+        //         queue.offer(curr.right);
+        //     }
+        // }
+        // return sum;
+
+        if(root==null) {
             return 0;
         }
-        Queue<TreeNode> queue=new LinkedList<>();
-        queue.offer(root);
-        int sum=0;
-        while(!queue.isEmpty()){
-            TreeNode curr=queue.poll();
-            if(curr.left!=null){
-                queue.offer(curr.left);
-            sum+=curr.left.val;
-            }
-            if(curr.right!=null){
-                queue.offer(curr.right);
-            }
+        return leftsum(root,false);
+    }
+    public int leftsum(TreeNode node,boolean isleft){
+        if(node==null){
+            return 0;
         }
-        return sum;
+        if(node.left==null && node.right==null){
+            return isleft ? node.val : 0;
+        }
+        int leftsum=leftsum(node.left,true);
+        int rightsum=leftsum(node.right,false);
+        return leftsum+rightsum;
     }
 }
