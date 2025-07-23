@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0520-detect-capital) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [2107-find-unique-binary-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
