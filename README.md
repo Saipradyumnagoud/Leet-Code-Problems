@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2573-remove-nodes-from-linked-list) |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -841,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
