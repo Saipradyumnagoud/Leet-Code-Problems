@@ -894,4 +894,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
