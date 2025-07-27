@@ -898,4 +898,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0184-department-highest-salary) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
