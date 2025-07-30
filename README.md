@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
 | [1086-divisor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2481-strictly-palindromic-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Quickselect
 |  |
