@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0946-smallest-range-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1054-complement-of-base-10-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0343-integer-break) |
 | [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1086-divisor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1086-divisor-game) |
 ## Sorting
 |  |
