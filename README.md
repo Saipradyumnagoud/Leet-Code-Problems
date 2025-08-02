@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
