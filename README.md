@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [2689-rearranging-fruits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2689-rearranging-fruits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
+| [2689-rearranging-fruits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2502-sort-the-people) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
+| [2689-rearranging-fruits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3321-type-of-triangle) |
