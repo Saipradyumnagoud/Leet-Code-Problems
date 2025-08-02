@@ -833,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1040-maximum-binary-tree-ii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1040-maximum-binary-tree-ii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Rolling Hash
