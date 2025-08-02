@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2556-convert-the-temperature](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2649-count-total-number-of-colored-cells) |
