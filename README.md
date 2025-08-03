@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 ## Matrix
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0878-shifting-letters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2102-find-the-middle-index-in-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3483-alternating-groups-ii) |
