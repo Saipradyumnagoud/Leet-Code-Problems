@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0946-smallest-range-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0940-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1297-maximum-number-of-balloons](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1297-maximum-number-of-balloons) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0940-fruit-into-baskets) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
