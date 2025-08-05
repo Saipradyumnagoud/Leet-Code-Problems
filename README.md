@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0724-find-pivot-index) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0648-replace-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0648-replace-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0812-rotate-string) |
@@ -911,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Recursion
