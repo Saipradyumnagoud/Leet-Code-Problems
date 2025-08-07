@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0041-first-missing-positive) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
