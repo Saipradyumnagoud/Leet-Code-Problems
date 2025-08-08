@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0494-target-sum) |
 | [2107-find-unique-binary-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2107-find-unique-binary-string) |
