@@ -2,8 +2,8 @@ class Solution {
     public int[] productQueries(int n, int[][] queries) {
         List<Integer> powers = new ArrayList<>();
         for (int i = 0; i < 32; i++) {
-            if (((n >> i) & 1) == 1) { 
-                powers.add(1 << i);
+            if ((n / (int) Math.pow(2, i)) % 2 == 1) {
+                powers.add((int) Math.pow(2, i));
             }
         }
         int MOD = 1_000_000_007;
@@ -15,7 +15,7 @@ class Solution {
             for (int k = i; k <= j; k++) {
                 prod = (prod * powers.get(k)) % MOD;
             }
-            result[t] = (int)prod ;
+            result[t] = (int) prod;
         }
         return result;
     }
