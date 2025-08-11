@@ -1,10 +1,13 @@
 class Solution {
     public int[] productQueries(int n, int[][] queries) {
         List<Integer> powers = new ArrayList<>();
-        for (int i = 0; i < 32; i++) {
-            if ((n / (int) Math.pow(2, i)) % 2 == 1) {
-                powers.add((int) Math.pow(2, i));
+        int x = 1;
+        while(n > 0) {
+            if((n & 1) == 1) {
+                powers.add(x);
             }
+            n = n >> 1;
+            x *= 2;
         }
         int MOD = 1_000_000_007;
         int[] result = new int[queries.length];
