@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0390-elimination-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2573-remove-nodes-from-linked-list) |
