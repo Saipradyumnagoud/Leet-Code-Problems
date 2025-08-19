@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3194-find-words-containing-character) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+| [3379-score-of-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
