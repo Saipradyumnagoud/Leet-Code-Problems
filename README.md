@@ -985,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0184-department-highest-salary](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1153-product-sales-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
