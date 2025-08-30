@@ -1004,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1153-product-sales-analysis-i) |
+| [1390-average-selling-price](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1837-daily-leads-and-partners](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1877-find-followers-count) |
