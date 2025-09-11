@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [2887-sort-vowels-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3430-count-days-without-meetings) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2887-sort-vowels-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3194-find-words-containing-character) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
 | [3379-score-of-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3379-score-of-a-string) |
