@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0755-reach-a-number) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+| [0856-consecutive-numbers-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0856-consecutive-numbers-sum) |
 | [0897-prime-palindrome](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0944-smallest-range-i) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0204-count-primes) |
+| [0856-consecutive-numbers-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1656-count-good-triplets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
