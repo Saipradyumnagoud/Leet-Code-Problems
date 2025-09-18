@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
+| [0807-custom-sort-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0807-custom-sort-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0941-sort-array-by-parity) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0742-to-lower-case) |
+| [0807-custom-sort-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0878-shifting-letters) |
