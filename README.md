@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
