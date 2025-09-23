@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0283-move-zeroes) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0260-single-number-iii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0371-sum-of-two-integers) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0257-binary-tree-paths) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0520-detect-capital) |
