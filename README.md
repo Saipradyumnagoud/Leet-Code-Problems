@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2728-sum-in-a-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2792-neighboring-bitwise-xor) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2728-sum-in-a-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3447-clear-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2728-sum-in-a-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2728-sum-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
+| [2728-sum-in-a-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -747,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2728-sum-in-a-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
