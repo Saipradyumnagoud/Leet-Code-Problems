@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3321-type-of-triangle) |
+| [3324-split-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3324-split-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3429-special-array-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3429-special-array-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3324-split-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3324-split-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
