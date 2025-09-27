@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0816-design-hashset) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+| [0830-largest-triangle-area](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0890-lemonade-change) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0755-reach-a-number) |
 | [0828-chalkboard-xor-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0828-chalkboard-xor-game) |
+| [0830-largest-triangle-area](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0830-largest-triangle-area) |
 | [0856-consecutive-numbers-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0856-consecutive-numbers-sum) |
 | [0897-prime-palindrome](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0223-rectangle-area) |
+| [0830-largest-triangle-area](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Brainteaser
 |  |
