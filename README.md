@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3324-split-the-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3430-count-days-without-meetings) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-minimum-operations-to-collect-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3324-split-the-array) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
