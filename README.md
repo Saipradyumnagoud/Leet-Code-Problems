@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-maximum-xor-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2402-maximum-xor-after-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2481-strictly-palindromic-number) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2728-sum-in-a-matrix) |
@@ -1094,4 +1097,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3790-fruits-into-baskets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
