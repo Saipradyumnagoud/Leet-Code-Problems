@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3430-count-days-without-meetings) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Merge Sort
 |  |
 | ------- |
