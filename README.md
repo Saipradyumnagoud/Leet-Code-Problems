@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2279-maximum-split-of-positive-even-integers) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2032-largest-odd-number-in-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2107-find-unique-binary-string) |
