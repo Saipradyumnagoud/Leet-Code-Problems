@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
