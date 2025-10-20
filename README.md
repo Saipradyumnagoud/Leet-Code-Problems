@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
