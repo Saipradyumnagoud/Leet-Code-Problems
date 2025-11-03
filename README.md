@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2689-rearranging-fruits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2728-sum-in-a-matrix) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2689-rearranging-fruits) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2728-sum-in-a-matrix](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2887-sort-vowels-in-a-string) |
