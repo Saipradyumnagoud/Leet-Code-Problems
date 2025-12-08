@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1925-count-square-sum-triples](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/2507-number-of-common-factors) |
