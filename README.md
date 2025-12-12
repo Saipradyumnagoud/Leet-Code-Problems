@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3799-unique-3-digit-even-numbers) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Saipradyumnagoud/Leet-Code-Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
